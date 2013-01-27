@@ -1,0 +1,14 @@
+Moai SDK uses 
+http://www.opensource.org/licenses/cpal_1.0 (CPAL)
+CPAL is an Open Source Initiative approved license based on the Mozilla Public License, with the added requirement that you attribute Moai in the credits of your program.
+
+Fonts were hopefully free to use.
+
+MSVCR100.DLL and MSVCRT100.dll are included, even though their inclusion is unclear.
+
+The included binary of moai.exe is actually moai-untz.exe to provide sound support. 
+
+Global Game Jam games are Public Domain. So use freely if you wish.
+However we do not take any responsibility to any physical or mental damages
+caused directly or indirectly by this product.
+
